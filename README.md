@@ -1,2 +1,2 @@
-# image
+# Image
 Image for zhesifan.cn
